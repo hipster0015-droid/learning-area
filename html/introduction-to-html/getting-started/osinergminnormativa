@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Normativa OSINERGMIN - Combustibles y Gas</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f7f7f7; }
+    h1 { color: #004b8d; }
+    ul { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    li { margin-bottom: 12px; }
+    a { color: #0066cc; text-decoration: none; font-weight: bold; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Normativa OSINERGMIN - Combustibles y Gas</h1>
+  <p>Compilación de documentos oficiales relacionados con condiciones de seguridad, criticidad alta y reglamentos aplicables a establecimientos de combustibles, GLP y GNV.</p>
+
+  <ul>
+    <li>
+      <strong>1. Decreto Supremo N.º 054-93-EM</strong><br>
+      Reglamento de Seguridad para Establecimientos de Venta al Público de Combustibles Derivados de Hidrocarburos<br>
+      <a href="https://cdn.www.gob.pe/uploads/document/file/5970409/5136516-decreto-supremo-n-054-93-em.pdf?v=1709580154" target="_blank">Ver documento</a>
+    </li>
+
+    <li>
+      <strong>2. Resolución de Consejo Directivo N.º 042-2016-OS-CD</strong><br>
+      Listado de condiciones de Seguridad de criticidad alta<br>
+      <a href="https://cdn.www.gob.pe/uploads/document/file/863431/OSINERGMIN-042-2016-OS-CD.pdf?v=1592586368" target="_blank">Ver documento</a>
+    </li>
+
+    <li>
+      <strong>3. OSINERGMIN-042-2016-OS-CD - ANEXO</strong><br>
+      Condiciones inseguras de criticidad alta en Grifos y Estaciones de Servicio<br>
+      <a href="https://cdn.www.gob.pe/uploads/document/file/869584/OSINERGMIN-042-2016-OS-CD-ANEXO.pdf?v=1592979053" target="_blank">Ver documento</a>
+    </li>
+
+    <li>
+      <strong>4. Decreto Supremo N.º 019-97-EM</strong><br>
+      Reglamento de Establecimientos de Gas Licuado de Petróleo para uso Automotor - Gasocentros<br>
+      <a href="https://cdn.www.gob.pe/uploads/document/file/5784095/5136605-d-s-nro-019-97-em.pdf?v=1706716832" target="_blank">Ver documento</a>
+    </li>
+
+    <li>
+      <strong>5. Resolución de Consejo Directivo N.º 077-2017-OS-CD</strong><br>
+      Listado de condiciones de seguridad de criticidad alta en establecimientos de venta al público<br>
+      <a href="https://cdn.www.gob.pe/uploads/document/file/863451/OSINERGMIN-077-2017-OS-CD.pdf?v=1592587426" target="_blank">Ver documento</a>
+    </li>
+
+    <li>
+      <strong>6. OSINERGMIN-077-2017-OS-CD - ANEXO</strong><br>
+      Condiciones inseguras de criticidad alta en establecimientos con GLP vehicular<br>
+      <a href="https://cdn.www.gob.pe/uploads/document/file/863451/OSINERGMIN-077-2017-OS-CD.pdf?v=1592587426" target="_blank">Ver documento</a>
+    </li>
+
+    <li>
+      <strong>7. Decreto Supremo N.º 006-2005-MEM</strong><br>
+      Reglamento para la instalación y operación de Establecimientos de Venta al Público de Gas Natural Vehicular (GNV)<br>
+      <a href="https://cdn.www.gob.pe/uploads/document/file/176552/DS_006_2005_DM.pdf?v=1591304849" target="_blank">Ver documento</a>
+    </li>
+  </ul>
+</body>
+</html>
